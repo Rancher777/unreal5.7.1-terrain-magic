@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TerrainMagic.cpp.obj": [
+			"BaseLandscapeClip.gen.cpp.obj",
+			"EarthLandscapeClip.gen.cpp.obj",
+			"FTerrainMagicRemap.gen.cpp.obj",
+			"G16Texture.gen.cpp.obj",
+			"GeoTiffLandscapeClip.gen.cpp.obj",
+			"HeightMapLandscapeClip.gen.cpp.obj",
+			"LandscapeClip.gen.cpp.obj",
+			"LandscapeClipPaintLayerSettings.gen.cpp.obj",
+			"MapUtils.gen.cpp.obj",
+			"NoiseLandscapeClip.gen.cpp.obj",
+			"OutlineComponent.gen.cpp.obj",
+			"TerrainMagic.init.gen.cpp.obj",
+			"TerrainMagicBrushComponent.gen.cpp.obj",
+			"TerrainMagicLiveHook.gen.cpp.obj",
+			"TerrainMagicManager.gen.cpp.obj",
+			"TerrainMagicMaterialParam.gen.cpp.obj",
+			"WeightMapLandscapeClip.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BaseLandscapeClip.cpp.obj",
+			"EarthLandscapeClip.cpp.obj",
+			"GeoTiffLandscapeClip.cpp.obj",
+			"HeightMapLandscapeClip.cpp.obj",
+			"NoiseLandscapeClip.cpp.obj",
+			"WeightMapLandscapeClip.cpp.obj",
+			"LandscapeClip.cpp.obj",
+			"TerrainMagicBrushComponent.cpp.obj",
+			"TerrainMagicLiveHook.cpp.obj",
+			"TerrainMagicManager.cpp.obj",
+			"TerrainMagicModule.cpp.obj",
+			"OutlineComponent.cpp.obj",
+			"G16Texture.cpp.obj",
+			"MapUtils.cpp.obj",
+			"TerrainMagicThreading.cpp.obj"
+		]
+	}
+}

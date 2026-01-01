@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TerrainMagicEditor.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"LandscapeClipDetails.cpp.obj",
+			"TerrainMagicCommands.cpp.obj",
+			"TerrainMagicEditorModule.cpp.obj",
+			"TerrainMagicStyles.cpp.obj"
+		]
+	}
+}
